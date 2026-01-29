@@ -23,6 +23,28 @@ I'm currently focused on growing as a **back-end engineer**, learning best pract
 
 ---
 
+## 📜 Courses & Technical Training
+
+### 🎓 Foundational Training (Curso em Vídeo)
+Brazilian online technology education platform focused on programming fundamentals and backend foundations.
+
+![Java](https://img.shields.io/badge/Java%20(OOP)-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms%20%26%20Logic-4B0082?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL%20%26%20MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20Fundamentals-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript%20Fundamentals-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Courses completed:**
+- Java Programming (Object-Oriented Programming)
+- Algorithms and Programming Logic
+- SQL & MySQL Fundamentals
+- Linux Fundamentals
+- JavaScript Fundamentals
+
+> These courses provided a solid foundation in programming logic, backend concepts, and database-driven systems, supporting my transition into professional software development.
+
+---
+
 ## 📚 Currently Learning
 
 - Advanced Java backend concepts  
