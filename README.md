@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Levi Sirqueira
 
-### 🐧 Linux Distros I Use
-
-![Arch Linux](https://img.shields.io/badge/Linux-Arch-blue?style=flat-square&logo=arch-linux&logoColor=white)
+### 🐧![Arch Linux](https://img.shields.io/badge/Linux-Arch-blue?style=flat-square&logo=arch-linux&logoColor=white)
 
 ## Junior Back-End Developer | Java | SQL | Linux
 
