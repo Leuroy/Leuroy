@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Levi Sirqueira
 
+### 🐧 Linux Distros
+<p align="left">
+  <img alt="Arch Linux" height="40" src="https://github.com/cli/cli/raw/trunk/assets/platforms/archlinux.svg" />
+</p>
+
 ## Junior Back-End Developer | Java | SQL | Linux
 
 I'm a **Junior Back-End Developer based in São Paulo, Brazil**, with a **degree in Information Technology** and a strong analytical and scientific background.
