@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Levi Sirqueira
 
-### 🐧 Linux Distros
-<p align="left">
-  <img alt="Arch Linux" height="40" src="https://github.com/cli/cli/raw/trunk/assets/platforms/archlinux.svg" />
-</p>
+### 🐧 Linux Distros I Use
+
+![Arch Linux](https://img.shields.io/badge/Linux-Arch-blue?style=flat-square&logo=arch-linux&logoColor=white)
 
 ## Junior Back-End Developer | Java | SQL | Linux
 
