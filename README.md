@@ -66,3 +66,7 @@ Before transitioning fully to software development, I worked as a **Graphic Desi
 - 💼 LinkedIn: https://www.linkedin.com/in/levisirqueira  
 - 🐙 GitHub: https://github.com/Leuroy
 - 🎨 ArtStation: https://https://www.artstation.com/levideath
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Leuroy)
